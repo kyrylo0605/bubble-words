@@ -1,0 +1,24 @@
+body {
+
+	margin:0;
+}
+
+
+canvas {
+
+	position: absolute;
+	background: #000;
+}
+
+
+#t {
+
+	position: absolute;
+	bottom: 5%;
+	left: 50%;
+	transform: translateX(-50%);
+	color: #fff;
+	z-index: 10;
+	text-transform: uppercase;
+	font-size: 10px;
+}
